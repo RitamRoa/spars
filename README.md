@@ -1,7 +1,7 @@
 # SPARS
 
 A Wifi Enabled System which helps Geriatric Patients have 24/7 Presense, Heartbeat and Breathing monitored in non-invasive way.
-Our Presentation pitch can be found here -> 
+Our Presentation pitch can be found here -> https://canva.link/wwv6xsnuvarj7ar
 
 ### Architecture
 
@@ -14,4 +14,5 @@ The ESP32-S3 is really good at capturing wifi signals. It can get 64 of these si
 Here is how it works:
 1. The server looks at the signals. Calculates the difference in the phase of the signals. The ESP32-S3 captures wifi signals. Sends them to the server.
 2. The server compares these signals to what it sees in a room. The server then uses this information to make a picture of the room. It does this by making a grid that shows where all the signals are. The server uses the wavelength of the signals to figure out how strong they are. This helps it make a detailed 3D picture of the room. The server can even track where someone is in the room. It uses an algorithm to find the center of the movement. This algorithm is really good at finding where someone is. The server then makes a heatmap that shows where the person is and how they are doing. The best part is that it does not need a camera to do this. The ESP32-. The server work together to track the persons position and vitals. They do this in time so it is really useful.
+
 
