@@ -1,7 +1,7 @@
 # SPARS
 
 A Wifi Enabled System which helps Geriatric Patients have 24/7 Presense, Heartbeat and Breathing monitored in non-invasive way.
-Our Presentation pitch can be found here -> https://canva.link/wwv6xsnuvarj7ar
+Our Presentation pitch can be found here -> https://drive.google.com/file/d/1QqP8J5yMbppZRnAkbPIismYOAv2ojp6g/view?usp=sharing
 
 ### Architecture
 
